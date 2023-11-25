@@ -1,0 +1,3 @@
+Working repository -> Staging Area -> Local repo. -> Remoter repo.
+   Git_Practice    ->   git add    ->  git commit -> git push
+   change
