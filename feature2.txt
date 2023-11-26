@@ -1,0 +1,1 @@
+this is feature 2 section created as a separate branch and merged to the master branch
